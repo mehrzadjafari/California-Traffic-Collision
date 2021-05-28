@@ -45,9 +45,9 @@ There is a data dictionary [here](https://tims.berkeley.edu/help/SWITRS.php): He
 
 1. __`MySQL`__: 
 
-	> `Read This Before.pdf` file in which you will find all the preprocessing steps required for performing the MySQL queries.
-	> `MySQL Common Queries` folder containing 9 `.sql` query files with commonly used queries and their respected questions.
-	> `MySQL Optimized Queries` folder containing 7 `.sql` query files with commonly used queries and their respected questions.
+	1.1. `Read This Before.pdf` file in which you will find all the preprocessing steps required for performing the MySQL queries.
+	1.2. `MySQL Common Queries` folder containing 9 `.sql` query files with commonly used queries and their respected questions.
+	1.3. `MySQL Optimized Queries` folder containing 7 `.sql` query files with commonly used queries and their respected questions.
 
 2. __`MongoDB`__:
 
