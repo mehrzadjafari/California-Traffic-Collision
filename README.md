@@ -22,7 +22,9 @@ There is a data dictionary [here](https://tims.berkeley.edu/help/SWITRS.php): He
 
 
 
-
+### Creators:
+* Mehrzad Jafari Ranjbar
+* Giovanni Giunta
 
 
 **Goal of the project**: 
