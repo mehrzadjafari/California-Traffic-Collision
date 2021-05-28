@@ -43,14 +43,15 @@ There is a data dictionary [here](https://tims.berkeley.edu/help/SWITRS.php): He
 
 ## The repository consists of the following files:
 
-1. __`MySQL`__: 
-
+1. `MySQL`: 
 	1.1. `Read This Before.pdf` file in which you will find all the preprocessing steps required for performing the MySQL queries.
+
 	1.2. `MySQL Common Queries` folder containing 9 `.sql` query files with commonly used queries and their respected questions.
+
 	1.3. `MySQL Optimized Queries` folder containing 7 `.sql` query files with commonly used queries and their respected questions.
 
-2. __`MongoDB`__:
 
+2. __`MongoDB`__:
 	> `Read This Before.pdf` file in which you will find all the preprocessing steps required for performing the MongoDB queries.
 	> `1. MySQL Exporting.sql` file in which you will find the way to combine the data and extract it.
 	> `2. Python Preprocessing.ipynb` file in which you will find the final preprocessing phase in Python in order to create the last `.json` file.
