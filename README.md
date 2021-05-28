@@ -25,7 +25,10 @@ There is a data dictionary [here](https://tims.berkeley.edu/help/SWITRS.php): He
 
 
 
-**Goal of the homework**: Build a search engine over the "best books ever" list of [GoodReads](https://www.goodreads.com/). Unless differently specified, all the functions must be implemented from scratch. [Main Link](https://github.com/CriMenghini/ADM/tree/master/2020/Homework_3)
+**Goal of the project**: 
+
+    > 1. Convert the `.sqlite` file to MySQL and perform the normal queries, along with the optimized ones.
+    > 2. Export the `.json` file from MySQL Workbench and load it MongoDB and perform queries on them.
 
 
 ## Main Steps:
