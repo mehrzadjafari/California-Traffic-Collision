@@ -17,6 +17,12 @@ There is also a table called case_ids which I used to build the other tables. It
 
 There is a data dictionary [here](https://tims.berkeley.edu/help/SWITRS.php): He has in some cases remapped values so that they are human readable (making a left turn instead of D for example); you can find those mappings [here](https://github.com/agude/SWITRS-to-SQLite/blob/master/switrs_to_sqlite/value_maps.py).
 
+<br>
+<br>
+
+
+
+
 
 
 **Goal of the homework**: Build a search engine over the "best books ever" list of [GoodReads](https://www.goodreads.com/). Unless differently specified, all the functions must be implemented from scratch. [Main Link](https://github.com/CriMenghini/ADM/tree/master/2020/Homework_3)
