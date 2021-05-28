@@ -28,7 +28,6 @@ There is a data dictionary [here](https://tims.berkeley.edu/help/SWITRS.php): He
 
 
 **Goal of the project**: 
-
     > 1. Convert the `.sqlite` file to MySQL and perform the normal queries, along with the optimized ones.
     > 2. Export the `.json` file from MySQL Workbench and load it MongoDB and perform queries on them.
 
@@ -43,16 +42,13 @@ There is a data dictionary [here](https://tims.berkeley.edu/help/SWITRS.php): He
 
 ## The repository consists of the following files:
 
-1. `MySQL`: 
-	1.1. `Read This Before.pdf` file in which you will find all the preprocessing steps required for performing the MySQL queries.
+### `MySQL`: 
+    > 1. `Read This Before.pdf` file in which you will find all the preprocessing steps required for performing the MySQL queries.
+    > 2. `MySQL Common Queries` folder containing 9 `.sql` query files with commonly used queries and their respected questions.
+    > 3. `MySQL Optimized Queries` folder containing 7 `.sql` query files with commonly used queries and their respected questions.
 
-	1.2. `MySQL Common Queries` folder containing 9 `.sql` query files with commonly used queries and their respected questions.
-
-	1.3. `MySQL Optimized Queries` folder containing 7 `.sql` query files with commonly used queries and their respected questions.
-
-
-2. __`MongoDB`__:
-	> `Read This Before.pdf` file in which you will find all the preprocessing steps required for performing the MongoDB queries.
-	> `1. MySQL Exporting.sql` file in which you will find the way to combine the data and extract it.
-	> `2. Python Preprocessing.ipynb` file in which you will find the final preprocessing phase in Python in order to create the last `.json` file.
-	> `3. MonoDB Scripts.mongodb` file containing 10 queries and their respected explanations.
+### `MongoDB`: 
+    > 1.`Read This Before.pdf` file in which you will find all the preprocessing steps required for performing the MongoDB queries.
+    > 2. `MySQL Exporting.sql` file in which you will find the way to combine the data and extract it.
+    > 3. `Python Preprocessing.ipynb` file in which you will find the final preprocessing phase in Python in order to create the last `.json` file.
+    > 4. `MonoDB Scripts.mongodb` file containing 10 queries and their respected explanations.
