@@ -27,7 +27,7 @@ There is a data dictionary [here](https://tims.berkeley.edu/help/SWITRS.php): He
 * Giovanni Giunta
 
 
-**Goal of the project**: 
+## Goal of the project: 
     > 1. Convert the `.sqlite` file to MySQL and perform the normal queries, along with the optimized ones.
     > 2. Export the `.json` file from MySQL Workbench and load it MongoDB and perform queries on them.
 
